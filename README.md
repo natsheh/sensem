@@ -2,7 +2,7 @@
 
 Sentence Similarity Estimator (SenSim)
 
-Dependancies
+Dependencies
 ------------
 	This repository currently supports Python 2.7
 	For the used default values in sts.py/sts_light.py, you need the following:
